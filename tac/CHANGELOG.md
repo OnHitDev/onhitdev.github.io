@@ -9,10 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added:
 - Add localization to support Española, Português, Deutsch, Français, Русский, 繁體中文, 简体中文, 한국어, 日本語, Tiếng Việt, ไทย
+- Add Tools: Mobia 3310
 
 ### Changed:
 - Update text for UI.
 - Update descriptions for items.
+- Reduce the impact of character strength on Sunstrike.
 
 ## [1.13] - 2023-03-01
 
@@ -23,7 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed:
 - To correspond with the addition of Goldie, reduced the probability of zombie chickens appearing.
 - Update many items descriptions.
-- Update UI for shopping scene.
+- Update UI for shopping scene
 
 ### Fixed:
 - Fixed an issue with the Smartwatch stats.
