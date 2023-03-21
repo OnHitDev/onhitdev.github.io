@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.14] - 2023-03-21
+## [1.14.0] - 2023-03-21
 
 ### Added:
 - Add localization to support Española, Português, Deutsch, Français, Русский, 繁體中文, 简体中文, 한국어, 日本語, Tiếng Việt, ไทย
@@ -16,7 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update descriptions for items.
 - Reduce the impact of character strength on Sunstrike.
 
-## [1.13] - 2023-03-01
+## [1.13.0] - 2023-03-01
 
 ### Added:
 - New weapon: Sunstrike.
@@ -65,3 +65,159 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed:
 - Fix player character can run over the map.
+
+## [1.10.1] - 2022-11-13
+
+### Fixed:
+- Fixed Can't place traps when using Drone.
+
+## [1.10.0] - 2022-11-11
+
+### Added:
+- New pet Drone.
+- New weapon M16A1.
+
+## [1.9.1] - 2022-10-12
+
+### Fixed:
+- Fixed crash issues for some device.
+
+## [1.9.0] - 2022-10-09
+
+### Added:
+- Add tools Molotov cocktail.
+
+## [1.8.0] - 2022-09-01
+
+### Added:
+- Add zombie chicken.
+- Add Hitman Suit.
+
+## [1.7.0] - 2022-08-06
+
+### Added:
+- Add weapon Captain Miller's M1911.
+- Add suit Knight Armor.
+- Add tools Stun Grenade.
+
+## [1.6.0] - 2022-07-18
+
+### Added:
+- Add weapon Not A Flamethrower, Reedham's Fury
+- Add melee weapon large spoon.
+
+### Changed:
+- Zombie spawn mechanism.
+
+## [1.5.8] - 2022-07-01
+
+### Added:
+- Add tools Animal Trap, Pet Tiger, Bowl of milk.
+- Add weapons MG 42, Glock17 Upgrade 2, M1918 Upgrade, M1928 Upgrade.
+
+### Changed:
+- Dog ignores ground saw when moving.
+- Ground saw quotas increase from 30 to 50.
+
+## [1.5.0] - 2022-06-01
+
+### Added:
+- Add tools Smartwatch
+- Add suit Chemical Suit, Military Chemical Suit.
+- Add Weapons BAR, M1918.
+
+## [1.4.2] - 2022-05-24
+
+### Added:
+- Add suit Juggernaut Suit.
+- Add weapon M2 Browning.
+- Add Wave count UI.
+
+### Changed:
+- One Kick to kill crawling zombie.
+
+## [1.4.1] - 2022-05-18
+
+### Added:
+- Add weapon M1911, Thunder 50.
+- Add country flags to leaderboard.
+- Add leaderboard to game over scene.
+
+### Changed:
+- Add tips on prepare phase.
+- Heartbeat screen effect when low health.
+
+## [1.4.0] - 2022-05-02
+
+### Added:
+- Add weapon RPG-7, M79, M32, Darksword.
+
+### Fixed:
+- Weapon reload issue.
+
+## [1.3.0] - 2021-11-16
+
+### Added:
+- Add Laser Gun.
+
+### Changed:
+- Update item name.
+
+## [1.2.0] - 2021-09-28
+
+### Added:
+- Add suit Japanese Samurai Armour.
+- Add weapon Viking Axe, War Axe, Grate Sword.
+
+## [1.1.3] - 2021-08-02
+
+### Added:
+- Add tools Ground Saw Trap.
+
+## [1.1.2] - 2021-07-22
+
+### Added:
+- Add weapon M1 Garand, M1928, MP40.
+
+### Changed:
+- Update item price.
+
+### Fixed:
+- Game area issue.
+
+## [1.1.0] - 2021-02-03
+
+### Added:
+- Add game mode Playground mode.
+- Add services Human Cloning.
+- Add tools Grenade, Impact Grenade.
+- Add active/deactive button for pet.
+
+### Changed:
+- Turret can reinstall in game any time.
+- Buckshot Shell shotgun raycast increased from 3 to 5.
+- Increase Roadblock health.
+- Setup item animation 50% faster.
+
+## [1.0.9] - 2021-01-20
+
+### Added:
+- Add pet dog.
+
+### Changed:
+- Difficulty Adjustment.
+
+## [1.0.6] - 2021-01-13
+
+### Added:
+- Add zombie Shield Zombie.
+
+## [1.0.5] - 2020-12-30
+
+### Added:
+- Add retry button when game over.
+
+## [1.0.0] - 2020-11-10
+
+### Added:
+- First release to Google Play.
