@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add weapon SCAR-H
 
 ### Changed
-- Update Russian text content. (Thanks, Дмитрий Теряев)
+- Update Russian text content. (Thanks, Дмитрий Теряев, Anonymous)
 
 ## [1.14.0] - 2023-03-21
 
