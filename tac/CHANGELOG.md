@@ -11,6 +11,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add suit Shock Armor
 - Add weapon SCAR-H
 
+### Changed
+- Update Russian text content. (Thanks, Дмитрий Теряев)
+
 ## [1.14.0] - 2023-03-21
 
 ### Added:
