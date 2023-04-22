@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed arrow issue.
 
 ### Changed:
-- Update Deutsch text content. (Thanks, David Kovacs)
+- Update Deutsch & Russian text content. (Thanks, David Kovacs, Kalimka OOF)
 
 ## [1.15.0] - 2023-04-17
 
