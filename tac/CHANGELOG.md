@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Unreleased
 
 ### Fixed:
-- Fixed arrow issue.
+- Fixed arrow appearing in the wrong position after reloading.
 
 ### Changed:
 - Update Deutsch & Russian text content. (Thanks, David Kovacs, Kalimka OOF)
