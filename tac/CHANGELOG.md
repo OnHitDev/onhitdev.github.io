@@ -7,8 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.18.0] - unreleased
 
+### Added:
+- Add weapon PIR and KS-23
+
 ### Changed:
-- The UI of the item confirmation button now will follow the item icon.
+- The confirmation button will follow the item icon when using an item in the game.
 - Upgrade Game Engine.
 
 ## [1.17.1] - 2023-08-19
