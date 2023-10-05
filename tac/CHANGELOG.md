@@ -5,15 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.19] - 2023-10-06
+
+### Added:
+- Add tools Duck Grenade.
+- Add zombie Firefighter.
+
 ## [1.18.3] - 2023-09-25
 
 ### Added:
 - Redemption function.
 
-## [1.18.1] - 2023-09-22
-
 ### Fixed:
-- iOS IAP problem. (TBC)
+- iOS IAP problem.
 - Goldie did not deploy in the game.
 - The turret weapon list is not scrollable.
 
