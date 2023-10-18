@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added:
 - Add tools Duck Grenade.
 - Add zombie Firefighter.
+- Handle the screen safe area for UI.
 
 ## [1.18.3] - 2023-09-25
 
