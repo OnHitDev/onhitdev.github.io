@@ -5,6 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.20.0] - 2024-03-12
+
+### Added:
+- Add partner Caesar the Cat, he can attract zombies.
+- Add tools dismantling and recycling mechanism.
+- Add a new melee weapon Claw Hammer, the only 100% tools recycling rate weapon.
+
+### Changed:
+- Update Crowbar, Hammer, and Pickaxe to support tools recycling.
+- Update the Bowl of milk and Turret to a new recycling mechanism.
+
 ## [1.19.0] - 2023-10-06
 
 ### Added:
