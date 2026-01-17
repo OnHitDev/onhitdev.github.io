@@ -5,6 +5,31 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.27.0] - 2026-01-17
+
+### Added:
+- Add Weapon Flint 66, Flint 67.
+- Add Service Hearty Breakfast.
+
+### Fixed:
+- Zombie gear can be burned; now is fireproof.
+- Turret can now only aim at targets in front of the trigger area, rather than behind it.
+- Incorrect visual sorting issue of Concrete Roadblock has been fixed.
+- Zombies would sometimes get stuck in the transition between walking and attacking. Now, they will attack rather than getting stuck.
+- Turret mount list uses localised names rather than the original names.
+
+### Changed:
+- The hit area of the zombie head has been increased.
+- Player max health can now increase.
+- Add health details to the smartwatch, status bar and death stats.
+- Lock item UI
+
+## [1.26.0] - 2026-01-05
+
+### Changed:
+- Change Ads agent.
+- Upgrade IAP and Enchance UI
+
 ## [1.25.0] - 2025-10-08
 
 ### Added:
