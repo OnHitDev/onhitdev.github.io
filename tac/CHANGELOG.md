@@ -10,6 +10,7 @@
 
 ### Fixed:
 - Fixed multiple Turrets issue: now only one Turret works properly even when multiple are placed.
+- Fixed incorrect slowdown effect on spike barriers
 
 ### Changed:
 - Applied animation for tool removal
