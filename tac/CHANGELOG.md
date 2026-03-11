@@ -27,7 +27,7 @@
 ## [1.28.0] - 2026-01-23
 
 ### Added:
-- Add tools Mortar.
+- New Parter: Mortar.
 
 ### Fixed:
 - Vomit visual issue.
