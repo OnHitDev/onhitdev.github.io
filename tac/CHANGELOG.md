@@ -1,19 +1,28 @@
 # Changelog
 
+## [1.29.1] - 2026-03-11
+
+### Fixed:
+- Fixed an issue where the Tool Recycler occasionally failed to sync with the data.
+- Fixed a state conflict between tool placement and recycling.
+
+### Changed:
+- Improved the positioning of the tool removal button.
+
 ## [1.29.0] - 2026-02-28
 
 ### Added:
-- New Suit: Builder Suit
-- New Suit: Powered Builder Suit
-- New Parter: Headhunter Penny 
-- New Melee weapon: Snake Spear
+- New Suit: Builder Suit.
+- New Suit: Powered Builder Suit.
+- New Parter: Headhunter Penny.
+- New Melee weapon: Snake Spear.
 
 ### Fixed:
 - Fixed multiple Turrets issue: now only one Turret works properly even when multiple are placed.
-- Fixed incorrect slowdown effect on spike barriers
+- Fixed incorrect slowdown effect on spike barriers.
 
 ### Changed:
-- Applied animation for tool removal
+- Applied animation for tool removal.
 
 ## [1.28.0] - 2026-01-23
 
@@ -49,24 +58,24 @@
 
 ### Changed:
 - Change Ads agent.
-- Upgrade IAP and Enchance UI
+- Upgrade IAP and Enchance UI.
 
 ## [1.25.0] - 2025-10-08
 
 ### Added:
-- Add tools Bottle Phos-bomb
-- Add weapon Benelli M4 BP
+- Add tools Bottle Phos-bomb.
+- Add weapon Benelli M4 BP.
 
 ### Changed:
-- Game engine upgrade
+- Game engine upgrade.
 
 ## [1.24.0] - 2025-08-20
 
 ### Added:
-- Add weapon Benelli M4
+- Add weapon Benelli M4.
 
 ### Changed:
-- Game engine upgrade
+- Game engine upgrade.
 
 ## [1.20.0] - 2024-03-12
 
@@ -140,8 +149,8 @@
 ## [1.15.0] - 2023-04-17
 
 ### Added:
-- Add suit Shock Armor
-- Add weapon SCAR-H
+- Add suit Shock Armor.
+- Add weapon SCAR-H.
 
 ### Changed:
 - Update Russian text content. (Thanks, Дмитрий Теряев, Anonymous)
