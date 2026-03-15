@@ -3,7 +3,6 @@
 ## [1.29.2] - 2026-03-13
 
 ### Fixed:
-- Fixed tools recycle not sync with data some time.
 - Fixed bow not drawing for next shot with unlimited ammo in Playground Mode.
 - Fixed duplicate weapon issue when changing suit in Playground
 
