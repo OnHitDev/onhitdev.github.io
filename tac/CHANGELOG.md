@@ -4,7 +4,10 @@
 
 ### Fixed:
 - Fixed bow not drawing for next shot with unlimited ammo in Playground Mode.
-- Fixed duplicate weapon issue when changing suit in Playground
+- Fixed duplicate weapon issue when changing suit in Playground.
+
+### Changed:
+- Add Data crash report and reset.
 
 ## [1.29.1] - 2026-03-11
 
