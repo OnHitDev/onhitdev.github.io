@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.30.0] - 2026-03-20
+
+### Added:
+- New Weapon: PIR-L3 OC.
+- New Service: Banana Tree.
+
+### Changed:
+- Updated prices for various items.
+- Banana can increases Max HP.
+- Reduced Banana Slip trigger count.
+
 ## [1.29.2] - 2026-03-13
 
 ### Fixed:
